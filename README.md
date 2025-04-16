@@ -49,3 +49,16 @@ This repository contains my submission for the **Machine Learning Internship ass
    ```bash
    git clone https://github.com/AgarwalBhavya/email-marketing-performance-analysis.git
    cd email-marketing-performance-analysis
+2. Install dependencies (if needed):
+  pip install pandas numpy scikit-learn matplotlib seaborn
+3. Open the notebook:
+   jupyter quantacus_ai assignment.ipynb
+
+
+## 🚀 Contach
+Feel free to reach out if you have any questions!
+
+Bhavya Agarwal
+📧 Email: [agarwal.bhavya2204@gmail.com]
+🔗 www.linkedin.com/in/bhavya-agarwal-5ba858275
+
