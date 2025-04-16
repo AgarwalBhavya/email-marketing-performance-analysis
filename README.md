@@ -55,7 +55,7 @@ This repository contains my submission for the **Machine Learning Internship ass
    jupyter quantacus_ai assignment.ipynb
 
 
-## 🚀 Contach
+## 🚀 Contact
 Feel free to reach out if you have any questions!
 
 Bhavya Agarwal
